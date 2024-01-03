@@ -1,0 +1,29 @@
+body{
+    background-image: url("giphy.gif");
+    color: rgb(162, 162, 197);
+    text-align: center;
+    background-size: cover;
+    margin-top: 40px;
+    font-size: 2rem;
+    font-family: 'Orbitron', sans-serif;
+    
+}
+#title{
+    text-shadow: 0px 0px 4px black;
+}
+
+.Apply-btn{
+padding: 7 18;
+border-radius: 2rem;
+background-color: white;
+font-size: 1.5rem;
+font-style:inherit;
+font-family: 'Orbitron', sans-serif;
+}
+.underline{
+    border-bottom: 3px solid;
+}
+
+#logo-img{
+    font-size: 2rem;
+}
